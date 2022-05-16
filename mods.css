@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap')
+;
+body{
+  margin:0;
+   font-family: 'Ubuntu', sans-serif;
+}
+.nav {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 100;
+  background-color: #0053D8;
+  padding: 0.1px 0;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  border:5px solid black;
+  border-left-width:0;
+}
+.title{
+  font-family: 'Ubuntu', sans-serif;
+  text-align:center;
+}
+/*What Text? */
+.warn{
+  font-family: 'Ubuntu', sans-serif;
+
+  padding:10px;
+  text-align:center;
+}
+.btn{
+   font-family: 'Ubuntu', sans-serif;
+  border:none;
+    background-color:#D86C00;
+  color:black;
+  text-align:center;
+  border-radius:10px
+}
+.btn:hover{
+  background-color:#FFA701;
+}
+.warn h1{
+   background-color:#A00000;
+   color: white;
+}
+.invis{
+  color:#0053D800;
+}

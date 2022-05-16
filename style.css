@@ -1,0 +1,32 @@
+body {
+  margin:0;
+   font-family: 'Ubuntu', sans-serif;
+}
+.nav {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 100;
+  background-color: #0053D8;
+  padding: 0.1px 0;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  border:5px solid black;
+  border-left-width:0;
+}
+/*shittyme*/
+.t{
+  font-family: 'Ubuntu', sans-serif;
+  text-align:center;
+}
+.title{
+  background-color:white;
+  color:#FF2C2C;
+  font-family: 'Ubuntu', sans-serif;
+}
+.download a{
+  text-align:left;
+  text-decoration:none;
+  color:inherit;
+}
